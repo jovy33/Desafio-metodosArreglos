@@ -1,0 +1,24 @@
+.resultado {
+    display: flex;
+}
+
+.resultado div {
+    width: 30%;
+    margin-top: 2%;
+}
+
+ul {
+    list-style: none;
+}
+
+th {
+    width: 6rem;
+}
+
+.div-tabla {
+    width: 60% !important;
+}
+
+.btn-eliminar {
+    width: 3%;
+}
